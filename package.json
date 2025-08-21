@@ -36,6 +36,7 @@
     "eslint-config-next": "15.4.6",
     "prisma": "^6.14.0",
     "tailwindcss": "^4.1.12",
+    "tsx": "^4.20.4",
     "tw-animate-css": "^1.3.7",
     "typescript": "^5"
   }
